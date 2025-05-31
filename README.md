@@ -33,31 +33,31 @@ console.log(xml);
   <mj-head>
     <mj-html-attributes>
       <mj-html-attribute
-        class="easy-email"
+        class="sendbix"
         multiple-attributes="false"
         attribute-name="text-color"
         text-color="#000000"
       ></mj-html-attribute>
       <mj-html-attribute
-        class="easy-email"
+        class="sendbix"
         multiple-attributes="false"
         attribute-name="font-family"
         font-family="lucida Grande,Verdana,Microsoft YaHei"
       ></mj-html-attribute>
       <mj-html-attribute
-        class="easy-email"
+        class="sendbix"
         multiple-attributes="false"
         attribute-name="font-size"
         font-size="14px"
       ></mj-html-attribute>
       <mj-html-attribute
-        class="easy-email"
+        class="sendbix"
         multiple-attributes="false"
         attribute-name="line-height"
         line-height="1.7"
       ></mj-html-attribute>
       <mj-html-attribute
-        class="easy-email"
+        class="sendbix"
         multiple-attributes="false"
         attribute-name="responsive"
         responsive="true"
@@ -141,31 +141,31 @@ console.log(
   <mj-head>
     <mj-html-attributes>
       <mj-html-attribute
-        class="easy-email"
+        class="sendbix"
         multiple-attributes="false"
         attribute-name="text-color"
         text-color="#000000"
       ></mj-html-attribute>
       <mj-html-attribute
-        class="easy-email"
+        class="sendbix"
         multiple-attributes="false"
         attribute-name="font-family"
         font-family="lucida Grande,Verdana,Microsoft YaHei"
       ></mj-html-attribute>
       <mj-html-attribute
-        class="easy-email"
+        class="sendbix"
         multiple-attributes="false"
         attribute-name="font-size"
         font-size="14px"
       ></mj-html-attribute>
       <mj-html-attribute
-        class="easy-email"
+        class="sendbix"
         multiple-attributes="false"
         attribute-name="line-height"
         line-height="1.7"
       ></mj-html-attribute>
       <mj-html-attribute
-        class="easy-email"
+        class="sendbix"
         multiple-attributes="false"
         attribute-name="responsive"
         responsive="true"
@@ -335,31 +335,31 @@ console.log(
   <mj-head>
     <mj-html-attributes>
       <mj-html-attribute
-        class="easy-email"
+        class="sendbix"
         multiple-attributes="false"
         attribute-name="text-color"
         text-color="#000000"
       ></mj-html-attribute>
       <mj-html-attribute
-        class="easy-email"
+        class="sendbix"
         multiple-attributes="false"
         attribute-name="font-family"
         font-family="lucida Grande,Verdana,Microsoft YaHei"
       ></mj-html-attribute>
       <mj-html-attribute
-        class="easy-email"
+        class="sendbix"
         multiple-attributes="false"
         attribute-name="font-size"
         font-size="14px"
       ></mj-html-attribute>
       <mj-html-attribute
-        class="easy-email"
+        class="sendbix"
         multiple-attributes="false"
         attribute-name="line-height"
         line-height="1.7"
       ></mj-html-attribute>
       <mj-html-attribute
-        class="easy-email"
+        class="sendbix"
         multiple-attributes="false"
         attribute-name="responsive"
         responsive="true"

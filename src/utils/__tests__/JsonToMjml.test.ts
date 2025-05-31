@@ -1,5 +1,5 @@
-import { BasicType } from '../../constants';
-import { BlockManager } from '../BlockManager';
+import { BasicType } from './../../constants';
+import { BlockManager } from './../BlockManager';
 
 import { JsonToMjml } from '../JsonToMjml';
 

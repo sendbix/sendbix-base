@@ -34,7 +34,7 @@ export function generaMjmlMetaData(data: IPage) {
                 })
                 .join(' ')
             : `${key}="${values[attKey]}"`;
-          return `<mj-html-attribute class="easy-email" multiple-attributes="${isMultipleAttributes}" attribute-name="${key}" ${value}></mj-html-attribute>`;
+          return `<mj-html-attribute class="sendbix" multiple-attributes="${isMultipleAttributes}" attribute-name="${key}" ${value}></mj-html-attribute>`;
         })
         .join('\n')}
 

@@ -1,4 +1,4 @@
-import { BlockType } from '../constants';
+import { BlockType } from './../constants';
 import { IBlock, IBlockData } from '@core/typings';
 import { get, isString } from 'lodash';
 import { ancestorOf } from './ancestorOf';

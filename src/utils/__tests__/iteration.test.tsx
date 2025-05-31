@@ -1,4 +1,4 @@
-import { BlockManager } from '../BlockManager';
+import { BlockManager } from './../BlockManager';
 
 import { JsonToMjml } from '../JsonToMjml';
 import { Liquid } from 'liquidjs';

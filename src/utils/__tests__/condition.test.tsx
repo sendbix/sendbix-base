@@ -1,4 +1,4 @@
-import { BlockManager } from '../BlockManager';
+import { BlockManager } from './../BlockManager';
 
 import { JsonToMjml } from '../JsonToMjml';
 import { Liquid } from 'liquidjs';
@@ -19,7 +19,7 @@ describe('Test condition.test', () => {
       name: 'Ryan',
       age: 26,
       job: 'backend',
-      email: 'easy-email@gmail.com',
+      email: 'sendbix@gmail.com',
       fired: false
     },
   };

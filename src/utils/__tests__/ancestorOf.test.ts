@@ -1,4 +1,4 @@
-import { BlockManager } from '../BlockManager';
+import { BlockManager } from './../BlockManager';
 
 import { BasicType } from '@core/constants';
 import { ancestorOf } from '../ancestorOf';
